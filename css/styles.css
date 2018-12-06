@@ -28,3 +28,9 @@ address{
   margin:0px;
   color:#0f0f0f;
 }
+.row-content2
+{
+  margin:0px auto;
+  padding:40px 0px 40px 0px;
+  min-height:400px;
+}
